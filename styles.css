@@ -1,0 +1,49 @@
+body{
+          font-family:"Epudunda Sans", sans-serif;
+          color: #224975;
+          background-image:url(https://cdn.pixabay.com/photo/2024/04/09/15/45/ai-generated-8686233_1280.jpg);
+          background-size: cover;
+      }
+
+body {
+    color:#224975;
+    align-content: center;
+    
+}
+
+h1{
+    text-align:center;
+}
+
+
+h2{
+    text-align:center;
+}
+
+p{
+    text-align: center;
+}
+
+h4{
+    text-align: left;
+}
+
+li{
+    text-align: left;
+}
+
+form{
+        background-color: whitesmoke;
+        width: 40%;
+        padding: 15px;
+        margin: 0 auto;
+        opacity: 80%;
+        border-radius: 15px;
+        border: 15px ridge #3B5BAD;
+
+        
+
+
+
+
+
